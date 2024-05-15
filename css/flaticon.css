@@ -1,0 +1,10 @@
+
+.navbar-light .navbar-nav .nav-item .nav-link:hover {
+    background-color:blueviolet;
+
+    transform: scale(1.2);
+    font-size: medium;
+}
+
+      
+    
